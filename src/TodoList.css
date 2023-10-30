@@ -1,0 +1,28 @@
+.checkbox-size {
+  width: 1.25rem;
+  height: 1.25rem;
+}
+
+.custom-input {
+  background: transparent;
+  border: none;
+  outline: none;
+  border-bottom: 1px solid;
+  width: 350px;
+}
+
+.icon-btn-custom {
+  color: white;
+  font-size: 1.5rem;
+  cursor: pointer;
+}
+
+.icon-edit:hover {
+  transform: scale(1.2);
+  color: blue;
+}
+
+.icon-delete:hover {
+  transform: scale(1.2);
+  color: red;
+}

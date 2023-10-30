@@ -1,0 +1,9 @@
+.custom-container {
+  border-radius: 2rem;
+  background-color: #eeeae3;
+}
+@media (min-width: 768px) {
+  .custom-container {
+    width: 600px !important;
+  }
+}
